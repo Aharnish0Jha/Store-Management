@@ -1,5 +1,6 @@
 # 🏬 Store Management System
-📜 Project Overview
+📜 Project Overview :
+
 The Store Management System is a Python-based application that provides a simple yet powerful interface for managing a retail store's operations. It connects seamlessly with a MySQL database to manage inventory, customer, and employee records efficiently.
 
 This system is designed for two types of users:
@@ -10,7 +11,8 @@ Customers (Shoppers)
 
 It allows employees to manage stock and administrative tasks, while customers can browse and place orders with ease through a user-friendly, menu-driven program.
 
-⚙️ Core Features
+⚙️ Core Features:
+
 🛒 Employee Module
 Employee Login
 
@@ -30,7 +32,8 @@ Employee Login
 
 ➡️ Exit to main menu
 
-👤 Customer Module
+👤 Customer Module:
+
 Guest Checkout
 
 ➡️ Browse and place orders without logging in
@@ -43,10 +46,12 @@ Customer Sign-Up
 
 ➡️ Register as a new customer for a personalized experience
 
-🚪 Exit
+🚪 Exit:
+
 Exit the application safely.
 
-🛠️ Technology Stack
+🛠️ Technology Stack:
+
 Programming Language: Python
 
 Database: MySQL
@@ -55,25 +60,25 @@ Connectivity: MySQL Connector for Python
 
 Environment: Command-Line Interface (CLI)
 
-🔗 Database Integration
+🔗 Database Integration:
+
 The project uses MySQL to store and manage all backend data such as:
 
-Stock information
+1.Stock information
 
-Customer records
+2.Customer records
 
-Employee details
+3.Employee details
 
-Supplier information
+4.Supplier information
 
-Orders
+5.Orders
 
 Python scripts interact with the database to perform CRUD (Create, Read, Update, Delete) operations based on user actions.
 
-📈 Future Enhancements
-Add a simple GUI (using Tkinter or PyQt)
+📈 Future Enhancements:
 
-Implement email notifications for orders
+Add a simple GUI (using Tkinter or PyQt)
 
 Add encryption for secure login/password handling
 
