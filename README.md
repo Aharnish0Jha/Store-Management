@@ -13,38 +13,39 @@ It allows employees to manage stock and administrative tasks, while customers ca
 
 ⚙️ Core Features:
 
-🛒 Employee Module
+🛒 Employee Module:
+
 Employee Login
 
-➡️ Add new items to the store
+- ➡️ Add new items to the store
 
-➡️ View all available items
+- ➡️ View all available items
 
-➡️ Delete an existing item record
+- ➡️ Delete an existing item record
 
-➡️ Update details of existing stock
+- ➡️ Update details of existing stock
 
-➡️ Manage Supplier Details
+- ➡️ Manage Supplier Details
 
-➡️ Add New Employees
+- ➡️ Add New Employees
 
-➡️ View Employee Records
+- ➡️ View Employee Records
 
-➡️ Exit to main menu
+- ➡️ Exit to main menu
 
 👤 Customer Module:
 
 Guest Checkout
 
-➡️ Browse and place orders without logging in
+- ➡️ Browse and place orders without logging in
 
 Customer Login
 
-➡️ Log in as a returning customer to place orders and view order history
+- ➡️ Log in as a returning customer to place orders and view order history
 
 Customer Sign-Up
 
-➡️ Register as a new customer for a personalized experience
+- ➡️ Register as a new customer for a personalized experience
 
 🚪 Exit:
 
@@ -52,13 +53,13 @@ Exit the application safely.
 
 🛠️ Technology Stack:
 
-Programming Language: Python
+- Programming Language: Python
 
-Database: MySQL
+- Database: MySQL
 
-Connectivity: MySQL Connector for Python
+- Connectivity: MySQL Connector for Python
 
-Environment: Command-Line Interface (CLI)
+- Environment: Command-Line Interface (CLI)
 
 🔗 Database Integration:
 
@@ -78,13 +79,13 @@ Python scripts interact with the database to perform CRUD (Create, Read, Update,
 
 📈 Future Enhancements:
 
-Add a simple GUI (using Tkinter or PyQt)
+- Add a simple GUI (using Tkinter or PyQt)
 
-Add encryption for secure login/password handling
+- Add encryption for secure login/password handling
 
-Generate sales reports and analytics
+- Generate sales reports and analytics
 
-Introduce admin role management
+- Introduce admin role management
 
 This project is licensed under the MIT License.
 
